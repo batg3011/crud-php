@@ -1,0 +1,39 @@
+.T{
+
+    text-align: center;
+    
+}
+
+.forp{
+    max-width: 80%;
+   
+    margin-left: 10%;
+    border-width: 5px;
+    border-style: solid;
+  
+}
+
+
+.fora{
+    max-width: 40%;
+    margin-left: 10%;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.fore{
+    max-width: 40%;
+    margin-left: 50%;
+    transform: translateY(-100%); 
+    border-width: 5px;
+    border-style: solid;
+}
+
+.tabla{
+    max-width: 96%;
+    margin-left: 2%;
+    border-width: 5px;
+    border-style: solid;
+}
+
+
